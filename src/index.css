@@ -1,0 +1,29 @@
+.calc{
+  color:green;
+  margin-top: 10px;
+}
+.reset{
+  color:red;
+  margin-top: 10px;
+}
+.mass_table{
+  border:solid;
+  border-color: greenyellow;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom: 20px;
+  margin-top:  5px;
+}
+
+.result{
+    color: purple;
+    border:solid;
+    border-color: greenyellow;
+    max-width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.resultp{
+  color: red
+}
