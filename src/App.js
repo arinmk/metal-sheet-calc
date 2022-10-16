@@ -14,7 +14,7 @@ function calc() {
   }
   else {
     document.getElementById('resultKg').textContent = Math.round(hmix/1000, 2) + " kg";
-    document.getElementById('price').textContent = Math.round((hmix/1000,2)) * p + " AMD";
+    document.getElementById('price').textContent = Math.round((hmix/1000,2) * p) + " AMD";
     //alert(hmix);
   }
 }

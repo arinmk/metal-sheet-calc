@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/metal-sheet-calc/static/css/main.c6e40dbb.css",
-    "main.js": "/metal-sheet-calc/static/js/main.578bb44a.js",
+    "main.js": "/metal-sheet-calc/static/js/main.84df26a9.js",
     "index.html": "/metal-sheet-calc/index.html",
     "main.c6e40dbb.css.map": "/metal-sheet-calc/static/css/main.c6e40dbb.css.map",
-    "main.578bb44a.js.map": "/metal-sheet-calc/static/js/main.578bb44a.js.map"
+    "main.84df26a9.js.map": "/metal-sheet-calc/static/js/main.84df26a9.js.map"
   },
   "entrypoints": [
     "static/css/main.c6e40dbb.css",
-    "static/js/main.578bb44a.js"
+    "static/js/main.84df26a9.js"
   ]
 }
