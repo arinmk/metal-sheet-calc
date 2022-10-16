@@ -8,7 +8,7 @@ function calc() {
   var p = document.getElementById('p').value;
   var hmix = hh * hw * (hl/10) * hmd;
   if (hmix === 0) {
-    document.getElementById('resultKg').textContent = "wrong input";
+    document.getElementById('resultKg').textContent = "Wrong Input";
     document.getElementById('price').textContent = "";  
     //reset();
   }
