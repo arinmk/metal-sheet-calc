@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/metal-sheet-calc/static/css/main.c6e40dbb.css",
-    "main.js": "/metal-sheet-calc/static/js/main.e1f11504.js",
+    "main.css": "/metal-sheet-calc/static/css/main.223e03a4.css",
+    "main.js": "/metal-sheet-calc/static/js/main.2c535965.js",
+    "static/media/logo.png": "/metal-sheet-calc/static/media/logo.81a1cd8ae4c8fa79eac0.png",
     "index.html": "/metal-sheet-calc/index.html",
-    "main.c6e40dbb.css.map": "/metal-sheet-calc/static/css/main.c6e40dbb.css.map",
-    "main.e1f11504.js.map": "/metal-sheet-calc/static/js/main.e1f11504.js.map"
+    "main.223e03a4.css.map": "/metal-sheet-calc/static/css/main.223e03a4.css.map",
+    "main.2c535965.js.map": "/metal-sheet-calc/static/js/main.2c535965.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6e40dbb.css",
-    "static/js/main.e1f11504.js"
+    "static/css/main.223e03a4.css",
+    "static/js/main.2c535965.js"
   ]
 }
