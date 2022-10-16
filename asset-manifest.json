@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/metal-sheet-calc/static/css/main.c6e40dbb.css",
+    "main.js": "/metal-sheet-calc/static/js/main.875befe7.js",
+    "index.html": "/metal-sheet-calc/index.html",
+    "main.c6e40dbb.css.map": "/metal-sheet-calc/static/css/main.c6e40dbb.css.map",
+    "main.875befe7.js.map": "/metal-sheet-calc/static/js/main.875befe7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6e40dbb.css",
+    "static/js/main.875befe7.js"
+  ]
+}
